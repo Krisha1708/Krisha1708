@@ -36,8 +36,13 @@ Aspiring Frontend Developer currently pursuing MERN Full Stack Web Development a
 # 📞 Contact
 
 ● 📱 Phone: 9779302689
+
 ● 📧 Email: akrish211@gmail.com
+
 ● 📍 Location: Muktsar, Punjab
+
 ● 🔗 GitHub: KrishArora
+
 ● 🔗 LinkedIn: "www.linkedin.com/in/krish-arora-a66b86351"
+
 ● 🔗 Portfolio: "https://creative-klepon-e972ed.netlify.app/"
