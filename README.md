@@ -1,18 +1,18 @@
 👋 Hi there! I'm Krish Arora
 
-🚀 Frontend Developer (React)
+# 🚀 Frontend Developer (React)
 
 
 
 
-🏅 Professional Summary
+# 🏅 Professional Summary
 
 Aspiring Frontend Developer currently pursuing MERN Full Stack Web Development at Masai School. Proficient in JavaScript, CSS, and React, with hands-on experience in building responsive websites. Skilled in implementing Redux for state management and React-Router-DOM for seamless navigation. A quick learner with strong problem-solving abilities and a collaborative mindset.
 
 
 
 
-🛠️ Technical Skills
+# 🛠️ Technical Skills
 
 ● Programming Languages: JavaScript, HTML5, CSS3
 
@@ -22,7 +22,7 @@ Aspiring Frontend Developer currently pursuing MERN Full Stack Web Development a
 
 
 
-🤝 Soft Skills
+# 🤝 Soft Skills
 
 ● Teamwork
 
@@ -33,7 +33,7 @@ Aspiring Frontend Developer currently pursuing MERN Full Stack Web Development a
 
 
 
-📞 Contact
+# 📞 Contact
 
 ● 📱 Phone: 9779302689
 ● 📧 Email: akrish211@gmail.com
